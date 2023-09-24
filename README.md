@@ -30,6 +30,13 @@ Clicking the corresponding knob will set the speed to zero.
 
 ![Demo video](docs/demo.MOV)
 
+
+
+https://github.com/al2o3cr/sd_demo/assets/1191/de313521-9bf9-432c-9a00-413dbf850e38
+
+
+
+
 Each of the four "rings" is composed of 64 segments, each with 0-15 brightness.
 
 ## Future plans
